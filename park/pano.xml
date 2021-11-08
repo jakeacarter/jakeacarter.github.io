@@ -12,7 +12,7 @@
     <min tilt="-90" pan="0" fovpixel="2"/>
     <max fov="120" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fovstereographic="270"/>
   </view>
-  <userdata title="Spanish Fork Memorial Square" longitude="-111.65444000" heading="0" customnodeid="" source="" tags="Hall Photo" latitude="40.11266000" copyright="" author="Cam Stephens" info="" comment="" datetime="10/9/21 7:32 PM" description="Memorial Square Park on Main Street in Spanish Fork Utah" nodeid="node1"/>
+  <userdata title="Provo Grandview Park" longitude="-111.65444000" heading="0" customnodeid="" source="" tags="Hall Photo" latitude="40.11266000" copyright="" author="" info="" comment="" datetime="" description="" nodeid="node1"/>
   <hotspots height="20" width="180" wordwrap="1">
     <label backgroundcolor="0xffffff" textcolor="0x000000" height="20" textalpha="1" backgroundalpha="1" enabled="1" borderradius="1" bordercolor="0x000000" border="1" background="1" width="180" borderalpha="1" wordwrap="1"/>
     <polystyle backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1"/>
